@@ -1,0 +1,13 @@
+Links used :
+- https://numpy.org/doc/stable/user/absolute_beginners.html
+- https://stackoverflow.com/questions/29241056/how-do-i-use-np-newaxis
+- https://www.rapidtables.com/convert/number/decimal-to-binary.html
+- https://www.mockaroo.com/
+- https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
+- https://matplotlib.org/stable/api/markers_api.html
+- https://matplotlib.org/stable/
+- https://seaborn.pydata.org/index.html
+- https://htmlcolorcodes.com/
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html
